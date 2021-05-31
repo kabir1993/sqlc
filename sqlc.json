@@ -1,0 +1,10 @@
+{
+    "version": "1",
+    "packages": [{
+      "schema": "schema/schema.sql",
+      "queries": "schema/query.sql",
+      "name": "db1",
+      "path": "./db1"
+      
+    }]
+}
